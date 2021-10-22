@@ -9,3 +9,5 @@ I also had a whole delete function that removed the child element from every div
 I also struggled with the Reset prompt. There are still some ways to break it, and I didn't want to mess with the Cancel button just yet, but it gets the job done for now.
 
 Overall I'm failry content with this. As usual could've done a lot more to style it and make it look prettier.
+
+Live: https://austinryan14.github.io/etch-a-sketch/
